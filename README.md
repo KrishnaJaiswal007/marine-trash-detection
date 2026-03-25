@@ -136,11 +136,10 @@ python app.py
 
 | Name | Role | Contributions |
 |------|------|---------------|
-| **Krishna Jaiswal** | **Lead Developer** | Dataset pipeline, YAML config, YOLOv8m-seg training (75 epochs, Kaggle GPU), training curve analysis, class imbalance analysis, class-specific confidence thresholds, Gradio web app (image + video tabs, stats dashboard), HF Hub model upload, HF Spaces deployment, GitHub setup |
+| **Krishna Jaiswal** | **Lead Developer** | Dataset pipeline, YOLOv8m-seg training ,class imbalance analysis, class-specific confidence thresholds, Gradio web app , HF Hub model upload, HF Spaces deployment |
 | Shashank Kumar Tiwari | Data | Dataset download, extraction, folder structure preparation |
 | Satyam Kumar | Evaluation | Results review, confusion matrix analysis, PPT preparation |
 
-> **Faculty Guide:** Shivanka — VIPS-TC, GGSIPU
 
 ---
 
